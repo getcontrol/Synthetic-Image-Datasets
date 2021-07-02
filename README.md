@@ -7,7 +7,7 @@ For the entire code, check out this [notebook](https://github.com/virafpatrawala
 
 
 #Datasets
-dataset created from images here: https://www.kaggle.com/kerneler/starter-crop-and-weed-detection-data-aad4228d-e
+dataset created from images here: https://www.kaggle.com/kerneler/starter-crop-and-weed-detection-data-aad4228d-e (see agri_data.zip for raw)
 and manually annotated in CVAT and exported dataset/annotations/instances_default.json
 
 https://github.com/cwfid
